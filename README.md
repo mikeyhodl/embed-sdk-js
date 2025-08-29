@@ -2,6 +2,11 @@
 
 Webtor.io SDK for online torrent streaming your site
 
+## Requirements
+
+- A registered account on [webtor.io](https://webtor.io)
+- Your domain added to the list of trusted domains in your Webtor profile
+
 ## Features
 
 * Supports magnet-uri and external torrent-files
